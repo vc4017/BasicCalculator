@@ -9,6 +9,8 @@ using Android.OS;
 using Microsoft.AppCenter;
 using Microsoft.AppCenter.Analytics;
 using Microsoft.AppCenter.Crashes;
+using Microsoft.AppCenter.Push;
+
 
 namespace Calculator.Droid
 {
@@ -18,6 +20,7 @@ namespace Calculator.Droid
         protected override void OnCreate(Bundle bundle)
         {
             AppCenter.Start("0b645681-07a0-4e3b-86ca-585c8a73164f", typeof(Analytics), typeof(Crashes));
+            AppCenter.Start("0b645681-07a0-4e3b-86ca-585c8a73164f", typeof(Push));
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);

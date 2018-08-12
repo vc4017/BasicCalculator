@@ -29,3 +29,10 @@ Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
 System.Resources.ResourceManager
 System.Diagnostics.Tools
+Microsoft.AppCenter.Push.Android.Bindings
+Microsoft.AppCenter.Push
+Xamarin.Firebase.Common
+Xamarin.Firebase.Iid
+Xamarin.Firebase.Messaging
+Xamarin.GooglePlayServices.Basement
+Xamarin.GooglePlayServices.Tasks
