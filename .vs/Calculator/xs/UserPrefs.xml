@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{5F01C20B-7694-46E2-AA2F-95F611A89EA5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator.Droid/google-services.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/OldMainPage.cs">
     <Files>
-      <File FileName="Calculator.Droid/MainActivity.cs" Line="30" Column="2" />
-      <File FileName="Calculator.Droid/google-services.json" Line="9" Column="6" />
+      <File FileName="Calculator.Droid/MainActivity.cs" Line="23" Column="32" />
+      <File FileName="Calculator/App.cs" Line="22" Column="4" />
+      <File FileName="Calculator/MainPage.xaml.cs" Line="59" Column="47" />
+      <File FileName="Calculator/OldMainPage.cs" Line="60" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

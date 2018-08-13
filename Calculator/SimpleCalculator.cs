@@ -25,7 +25,8 @@ namespace Calculator
                     break;
                 case "-":
                     result = value1 - value2;
-                    break;
+                     break;
+
             }
 
             return result;
